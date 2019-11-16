@@ -1,0 +1,28 @@
+
+ 128 1
+
+ AveGray = 74 
+
+ tmp1 = 126 
+
+ tmp2 = 102 
+
+ RoadType = 0 
+
+ 0x01LeftPnt = 4 
+
+	 LeftPnt = 21 
+
+	 LeftPnt = 24 
+
+ 0x01RightPnt = 4 
+
+	 RightPnt = 21 
+
+	 RightPnt = 181 
+
+ ErrorFlag = 0 
+
+ ML_count = 21 
+
+ ML->count = 102 
